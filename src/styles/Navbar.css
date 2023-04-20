@@ -1,4 +1,8 @@
-
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
 .container-navbar{
     display: flex;
     align-items: center;
@@ -29,5 +33,6 @@
     color: rgb(217, 220, 230);
     font-size: 20px;
     padding-right: 15px;
-
+    line-height: 1; /* set line-height to 1 */
 }
+
